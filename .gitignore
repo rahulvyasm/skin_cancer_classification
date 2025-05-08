@@ -1,4 +1,1 @@
-data/
-models/
-working/
-skin_cancer_classifier_ResNet_model.keras
+dataset/
