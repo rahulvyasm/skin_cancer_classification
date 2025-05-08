@@ -1,1 +1,6 @@
 dataset/
+augmented_images/
+
+.gitignore
+.ipynb_checkpoints
+.gitattributes
